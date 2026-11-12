@@ -6,10 +6,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 Currently pursuing a degree in **Computer Engineering** at **UEMG**
-- 🌱 Currently diving deeper into **C#**, **Object-Oriented Programming**, and **Software Architecture**[cite: 6, 7]
-- 🛠️ Hands-on background in **Computer Networks & Infrastructure**, bringing an analytical mindset to scalable systems[cite: 3]
-- 🎮 Building an authorial **3D Investigation & Survival Game** in **C# / Unity**[cite: 6]
-- 💬 Ask me about **C, C#, Data Structures, Networking, or Algorithms**[cite: 3, 4, 6]
+- 🌱 Currently diving deeper into **C#**, **Object-Oriented Programming**, and **Software Architecture**
+- 🛠️ Hands-on background in **Computer Networks & Infrastructure**, bringing an analytical mindset to scalable systems
+- 🎮 Building an authorial **3D Investigation & Survival Game** in **C# / Unity**
+- 💬 Ask me about **C, C#, Data Structures, Networking, or Algorithms**
 
 ---
 
